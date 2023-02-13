@@ -39,7 +39,7 @@ Explain this family of books, link to others, explain how to contribute and purp
 1. [Motivation](./book/chapters/motivation.ipynb)
 2. [Machine Learning Methods and tools](./book/chapters/methods.ipynb)
 3. [Data Preparation](./book/chapters/data.ipynb)
-4. [Model Development and Parameter Tuning](./book/chapters/devlopment.ipynb)
+4. [Model Development and Parameter Tuning](./book/chapters/development.ipynb)
 5. [Model Training](./book/chapters/training.ipynb)
 6. [Evaluation of Model Performance](./book/chapters/evaluation.ipynb)
 7. [Workflow Management and Cloud Computing](./book/chapters/workflow.ipynb)
