@@ -43,7 +43,7 @@ Explain this family of books, link to others, explain how to contribute and purp
 5. [Model Training](./book/chapters/training.ipynb)
 6. [Evaluation of Model Performance](./book/chapters/evaluation.ipynb)
 7. [Workflow Management and Cloud Computing](./book/chapters/workflow.ipynb)
-8. [Repoducibility](./book/chapters/repoducibility.ipynb)
+8. [Reproducibility](./book/chapters/reproducibility.ipynb)
 9. [Discussion/Conclusion](./book/chapters/conclusion.ipynb)
 10. [Solicitation to Questions](./book/chapters/questions.ipynb)
 
