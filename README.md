@@ -32,10 +32,6 @@ With preliminary regional testing performance ranging between 2.5 cm to 8 cm (i.
 This use case library contains a summary of the motivation behind the project, applicable ML methods and tools, the methods for data preparation, model development including the model training framework and evaluation, workflow management demonstrated using GeoWeaver, links to the complete model on GitHub as the model is data-intensive the tutorial is for a subset of the entire model, a discussion/conclusion, and a solitication to qestions.
 Below are the respective chapters addressing these items:
 
-
-
-Explain this family of books, link to others, explain how to contribute and purpose. Books in the library can be identified by the badge:
-
 1. [Motivation](./book/chapters/motivation.ipynb)
 2. [Machine Learning Methods and tools](./book/chapters/methods.ipynb)
 3. [Data Preparation](./book/chapters/data.ipynb)
